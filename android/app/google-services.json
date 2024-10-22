@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90657031534",
+    "project_id": "crictrax-49222",
+    "storage_bucket": "crictrax-49222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90657031534:android:4c66ab5bf2b6d536602d7f",
+        "android_client_info": {
+          "package_name": "com.example.cric_trax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr-hSiBGSZoPUSStbqfIJoppj-u9FsxPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
